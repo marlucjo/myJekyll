@@ -19,4 +19,4 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 
 # Style
 
-1. [Style guide](/markdown_files/style.md)
+1. [Style guide](/docs/style.md)
