@@ -3,6 +3,7 @@
 @import "{{ site.theme }}";
 header {
   img {
+    transform: scale(0.5);
     border-radius: 50%;
   }
   p {
