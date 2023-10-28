@@ -17,6 +17,11 @@
     <div class="wrapper">
       <header>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
+        
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+        
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
         <ul>
