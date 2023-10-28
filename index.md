@@ -12,7 +12,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 2. [RF](/markdown_files/RF.md)
 3. ...
 4. [Post](/markdown_files/ej_post.md)
-5. [Ejemplo](/docs/intrducción.md)
+5. [Ejemplo](/docs/introducción.md)
 # References
 
 1. [Quickstart](https://docs.github.com/es/pages/quickstart)
