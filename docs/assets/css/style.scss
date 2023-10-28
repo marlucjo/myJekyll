@@ -1,8 +1,14 @@
 ---
 ---
 @import "{{ site.theme }}";
-
-#header_wrap {
-    background: url(https://iruelas.files.wordpress.com/2020/01/cropped-dsc079305036303229644359947.jpg) no-repeat center center;
-    background-size: cover;
+header {
+  img {
+    border-radius: 50%;
+  }
+  p {
+    text-align: center;
+  }
+  p.view {
+    text-align: left;
+  }
 }
