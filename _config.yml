@@ -9,4 +9,4 @@ logo: https://pbs.twimg.com/profile_images/378800000795058910/d611cb4aa977700fa8
 #logo: assets/img/logo.png
 description: A place to share my notes
 google_analytics:
-show_downloads: true
+show_downloads: false
