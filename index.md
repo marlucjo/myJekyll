@@ -8,13 +8,15 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 
 # Content
 
+## Topic 1
+
 1. [Iruelas](https://iruelas.readthedocs.io/es/main/index.html)
 2. [RF](/markdown_files/RF.md)
 3. ...
 4. [Post](/docs/post.md)
 
-<details><summary>
-
+## Topic 2
+## Topic 3
 
 # References
 
