@@ -10,7 +10,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 
 <details><summary>
    
-## [Topic1.- Title1 ](https://iruelas.readthedocs.io/es/main/index.html) 
+## [Topic1.- Title1](https://iruelas.readthedocs.io/es/main/index.html) 
 </summary>
 
 1. [Iruelas](https://iruelas.readthedocs.io/es/main/index.html)
@@ -22,7 +22,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 
 <details><summary>
 
-## [Topic2.- Title2 ](https://iruelas.readthedocs.io/es/main/index.html) 
+## [Topic2.- Title2](https://iruelas.readthedocs.io/es/main/index.html) 
 </summary>
 
 Content ....
